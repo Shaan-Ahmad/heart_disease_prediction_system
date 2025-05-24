@@ -15,4 +15,4 @@ This project implements a heart disease prediction system using a trained model 
 - User-friendly web interface to input patient data
 - Predicts heart disease presence using a pre-trained Machine Learning model
 - Interactive widgets for easy data entry
-- Fast and responsive UI using by Streamlit
+- Fast and responsive UI using Streamlit
